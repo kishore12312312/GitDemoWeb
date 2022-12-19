@@ -1,0 +1,7 @@
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\TestWebApp.exe
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\appsettings.Development.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\appsettings.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\TestWebApp.dll
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\TestWebApp.deps.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\TestWebApp.runtimeconfig.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Docker\publish\TestWebApp.pdb

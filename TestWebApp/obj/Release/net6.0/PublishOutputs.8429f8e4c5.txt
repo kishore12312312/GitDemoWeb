@@ -1,0 +1,7 @@
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.exe
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.dll
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.deps.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.runtimeconfig.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.pdb
